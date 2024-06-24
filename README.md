@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Hi, I'm Tom! 👋
 <br/>
 
-🖥 - Aspiring full stack developer from Australia with a keen interest in thoughtful design and new technologies.<br/>
+🖥 - Aspiring full stack developer from Australia, recently graduated from Le Wagon Amsterdam, with a keen interest in thoughtful design and new technologies.<br/>
 <br/>
 🌍 - Love learning new things, connecting with people and exploring new places.<br/>
 <br/>
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 🤝 - Thrive in a collaborative team environment, working towards a common goal and having fun while doing so!<br/>
 <br/>
 ⚡ **Fun fact:**<br/>
-I moved to London in 2020, arrived on the day everything went into lockdwon and ended up tutoring my 2 younger siblings for 6 months.<br/>
+I moved to London in 2020, arrived on the day everything went into lockdown and ended up tutoring my 2 younger siblings for 6 months.<br/>
 <br/>
 
 <div class="markdown-heading" dir="auto">
