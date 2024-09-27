@@ -1,33 +1,3 @@
-<!--
-**thomas-borg/thomas-borg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## Hi, I'm Tom! 👋
-<br/>
-
-🖥 - Aspiring full stack developer from Australia, recently graduated from Le Wagon Amsterdam, with a keen interest in thoughtful design and new technologies.<br/>
-<br/>
-🌍 - Love learning new things, connecting with people and exploring new places.<br/>
-<br/>
-👍 - Have a background in sales and project based IT, with demonstrated experience communicating with people of all levels of technical skills in any level of seniority.<br/>
-<br/>
-🤝 - Thrive in a collaborative team environment, working towards a common goal and having fun while doing so!<br/>
-<br/>
-⚡ **Fun fact:**<br/>
-I moved to London in 2020, arrived on the day everything went into lockdown and ended up tutoring my 2 younger siblings for 6 months.<br/>
-<br/>
-
 <div class="markdown-heading" dir="auto">
   <h3 align="left" class="heading-element" dir="auto">Languages and Tools I work with :</h3>
 </div>
