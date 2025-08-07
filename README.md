@@ -23,21 +23,26 @@
 const tomBorg = {
   availableForHire: true,
   values: ["Teamwork", "Continuous Improvement", "Honesty", "Communication", "Accountability"],
-  education: ["Le Wagon Amsterdam, full-time intensive coding bootcamp", "RMIT, Certificate 4 in Design"]
-  altAlias: "Junior Full Stack Developer",
-  codesIn: ["HTML", "CSS", "JavaScript ES6", "Ruby on Rails"],
-  currentlylearning: ["React", "Wordpress", "How stay dry in Amsterdam"],
-  toolsUsed: ["Visual Studio Code", "Bootstrap", "Figma", "GitHub", "Heroku"],
+  education: ["Deakin, Master of Information Technology", "Le Wagon Amsterdam", "RMIT, Certificate 4 in Design"]
+  altAlias: "Junior Full-Stack Developer",
+  codesIn: ["HTML", "CSS", "JavaScript", "Bootstrap", "ExpressJS", "PHP", "Ruby on Rails", "NodeJS"],
+  currentlylearning: ["React", "C#"],
+  toolsUsed: ["VS Code", "Figma", "Elementor", "MySQL", "PostgreSQL", "GitHub", "Heroku", "Photoshop", "Illustrator", "InDesign"],
   pastExperience: [
     {
-      company : "Metro Trains Melbourne",
-      role : "Level 2 Desktop Support (Projects Division)",
-      duration : "2 years, 2 months"
+      company : "WebSpace",
+      role : "Junior Software Engineer",
+      startMonth : "2024-06"
     },
     {
       company : "Metro Trains Melbourne",
-      role : "Service Desk Analyst",
-      duration : "10 Months"
+      role : "Projects IT Engineer (L2 Support)",
+      startMonth : "2022-02"
+    },
+    {
+      company : "Metro Trains Melbourne",
+      role : "Service Desk",
+      startMonth : "2021-03"
     }
   ]
 }
